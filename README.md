@@ -1,10 +1,10 @@
-### Olá!, Sou o Fernando Reis. 🖐️ 
+### Olá, Sou o Fernando Reis. ✌️
 <br>
 
 
 ## 💡 Sobre mim...
 
-Eu sou desenvolvedor web Front-End...<br>
+Sou desenvolvedor web front-end...<br>
 
 ![Fernando Reis GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoReis55&show_icons=true&theme=dracula)
 
